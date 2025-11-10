@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">Sol - Responsável por 99,8% da massa do nosso Sistema Solar.</string>
+    <string name="affirmation2">Mercúrio - O Menor Planeta.</string>
+    <string name="affirmation3">Vênus - o mais quente de todo o Sistema Solar.</string>
+    <string name="affirmation4">Terra - Nossa casa.</string>
+    <string name="affirmation5">Marte - Detentor do maior vulcão do Sistema Solar.</string>
+    <string name="affirmation6">Júpiter - O maior planeta.</string>
+    <string name="affirmation7">Saturno - O Senhor dos Anéis.</string>
+    <string name="affirmation8">Urano - O planeta mais gelado.</string>
+    <string name="affirmation9">Netuno - O mais distante.</string>
+    <string name="affirmation10">Via Láctea - A casa do Sistema Solar.</string>
+</resources>
+
+
+
+
